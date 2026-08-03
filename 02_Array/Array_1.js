@@ -61,4 +61,4 @@ console.log("B ",myArr) // [0, 1, 2, 3, 4, 5] -- Original array remains unchange
 
 const myn2 = myArr.splice(1,3) // Removes 3 elements starting from index 1 (1, 2, 3) and returns them in a new array
 console.log(myn2) // [1, 2, 3]
-console.log("C ",myArr) // [0, 4, 5] -- Original array is modified
+console.log("C ",myArr); // [0, 4, 5] -- Original array is modified 
