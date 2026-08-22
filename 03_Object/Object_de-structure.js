@@ -20,4 +20,4 @@ console.log(name)
 // const navbar = ({company}) => {        //same concept haam react me bhi use karte hai baar baar props.object ki jageh haam {} braces me object name he de dete hai
 
 // }
-// navbar(company = "Anand")
+// navbar(company = "Anand") /
